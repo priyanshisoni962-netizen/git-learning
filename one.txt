@@ -1,2 +1,3 @@
 This is first file.
 Added another file to the folder and commit it
+Added another file to the folder and commit it
